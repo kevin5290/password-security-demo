@@ -1,0 +1,4 @@
+algorithm,target_hash,cracked,time_seconds,notes
+MD5,5f4dcc3b5aa765d61d8327deb882cf99,yes,0.12,common weak hash cracked quickly
+SHA-256,5e884898da28047151d0e56f8dc6292773603d0d,yes,0.88,slower than MD5
+bcrypt,$2b$12$eImiTXuWVxfM37uY4JANjQ,no,>30.00,timeout (bcrypt resists cracking)
