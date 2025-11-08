@@ -13,4 +13,3 @@ This repo demonstrates common security pitfalls and defenses using **safe, local
 - `wordlists/small.txt` — tiny test list
 - `requirements.txt` — Flask + requests
 
-## Quick Start
